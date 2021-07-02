@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on completing my [ApartPrach](https://github.com/jakubprach/ApartPrach) project
-- 🌱 I’m currently learning Java and Object Oriented Programming
+- 🌱 I’m currently learning C# and .NET 5
 
 
 ### Connect with me:
