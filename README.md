@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on completing my [ApartPrach](https://github.com/jakubprach/ApartPrach) project
-- 🌱 I’m currently learning C# and .NET 5
+- 🌱 I’m currently learning C# and .NET
 
 
 ### Connect with me:
