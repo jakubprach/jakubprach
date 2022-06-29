@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning C# and .NET
+- 📖 I’m currently learning C#, .NET and Angular
 
 
 ### Connect with me:
