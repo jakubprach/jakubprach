@@ -1,12 +1,21 @@
 ### Hi there 👋
 
+#### About Me
+- 🌱 **Currently Learning:** Deepening my skills in C#, .NET, and Angular.
+- 👨‍💻 **Role:** Junior Full-Stack Developer.
+- 💡 **Interests:** Passionate about backend development, with a particular focus on .NET.
 
-- 📖 I’m currently learning C#, .NET and Angular
+### Skills
+- **Languages:** C#, Javascript
+- **Frameworks:** .NET, Angular
+- **Databases:** MSSQL, PostgreSQL
+- **Tools:** Git, Rider, WebStorm, Postman, AWS
 
+### Projects
+- **AskMe API:** A project demonstrating my backend development skills using .NET. [View on GitHub](https://github.com/jakubprach/askMeAPI)
 
-### Connect with me:
-
-<img align="left" alt="jakubprach | E-mail" width="22px" src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"/>jakubprach.kontakt@gmail.com
-
-
+### Connect with Me
+- 📫 **Email:** jakubprach.kontakt@gmail.com
+- **LinkedIn:** [Jakub Prach](www.linkedin.com/in/jakub-prach-69219b203)
+---
 
