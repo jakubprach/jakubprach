@@ -12,7 +12,7 @@
 - **Tools:** Git, Rider, WebStorm, Postman, AWS
 
 ### Projects
-- **AskMe API:** A project demonstrating my backend development skills using .NET. [View on GitHub](https://github.com/jakubprach/askMeAPI)
+- **AskMe API:** A project demonstrating my backend development skills using .NET. [View on GitHub](https://github.com/jakubprach/askMe.API)
 
 ### Connect with Me
 - 📫 **Email:** jakubprach.kontakt@gmail.com
