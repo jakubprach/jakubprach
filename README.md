@@ -16,6 +16,5 @@
 
 ### Connect with Me
 - 📫 **Email:** jakubprach.kontakt@gmail.com
-- **LinkedIn:** [Jakub Prach](www.linkedin.com/in/jakub-prach-69219b203)
 ---
 
